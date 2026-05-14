@@ -1,8 +1,8 @@
-# airia_python_examples
+# airia_code_examples
 
-Python examples for working with the Airia platform.
+Code examples for working with the Airia platform.
 
-Each example lives in its own folder with a Python file and a README.
+Each example lives in its own folder with a code file and a README.
 
 ## Examples
 
